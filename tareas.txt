@@ -1,0 +1,1 @@
+1. Crear bucket S3. 2. Subir archivos. 3. Configurar permisos.

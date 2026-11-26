@@ -1,0 +1,2 @@
+Estas son mis notas de aprendizaje sobre AWS S3.
+Estoy aprendiendo a administrar servicios de almacenamiento en AWS.
